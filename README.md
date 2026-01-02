@@ -34,7 +34,7 @@ Publish the website in the LocalHost.
 ```
 HTML code:
 
-    html>
+<html>
 <head>
     <title>Book Cover</title>
     <link href="bb.css" rel="stylesheet">
